@@ -1,27 +1,55 @@
-<h1 align="center">Hi 👋, I'm Kumar Murli</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
-
-- 🔭 I’m currently working on [5Paisa](https://play.google.com/store/search?q=5paisa+online+trading+app&c=apps&hl=en_IN)
-
-- 🌱 I’m currently learning **Aws, Swift**
-
-- 👯 I’m looking to collaborate on **Open souce projects**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/murli2708/](https://www.linkedin.com/in/murli2708/)
-
-- 💬 Ask me about **Flutter, Firebase,Java, Springboot**
-
-- 📫 How to reach me **murli270895@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/murli2708/](https://www.linkedin.com/in/murli2708/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/murli2708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murli2708" height="30" width="40" /></a>
-<a href="https://fb.com/kumar murli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kumar murli" height="30" width="40" /></a>
+<h1 align="center">Kumar Murli</h1>
+<p align="center">
+  <b>Edge AI Systems Engineer</b> · On-Device ML · Multiplatform (Flutter + Rust)
+</p>
+<p align="center">
+  <i>Going down the stack — math → tensors → kernels → quantization → FFI → memory — and back up: RAG → agents → server-driven UI → product.</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murli2708&show_icons=true&locale=en&layout=compact" alt="murli2708" /></p>
+I'm a Flutter engineer evolving into **on-device & edge AI systems**. I'm currently working through a
+self-directed 6-month program that builds one capability per month, each gated by a real, benchmarked
+project — from a from-scratch autograd engine to a fully-offline, multi-modal AI workspace.
+
+- 🔭 **Building now:** [`microtorch`](https://github.com/murli2708/microtorch) — reverse-mode autograd from scratch (NumPy only), validated against PyTorch.
+- 🧠 **Learning:** quantization (INT8/INT4/GGUF), zero-copy Dart↔Rust FFI, on-device RAG, agentic & generative UI.
+- 🛠️ **Day-job stack:** Flutter, Dart, Firebase, Java/Spring Boot.
+- 📫 **Reach me:** murli270895@gmail.com · [LinkedIn](https://www.linkedin.com/in/murli2708/)
+
+## 🌌 The build-in-public journey
+
+A six-project arc from *"I understand the math"* to *"I ship production edge-AI."* Each repo is built to a
+KPI table and a teardown README. Full roadmap → **[edge-ai-roadmap](https://github.com/murli2708/edge-ai-roadmap)**.
+
+| # | Project | What it proves | Stack |
+|---|---------|----------------|-------|
+| 1 | [microtorch](https://github.com/murli2708/microtorch) | The math + autograd from first principles | Python (NumPy) |
+| 2 | [edgequant](https://github.com/murli2708/edgequant) | Quantization & cross-backend benchmarking | Python · ONNX/CoreML/TFLite |
+| 3 | [zerocopyvision](https://github.com/murli2708/zerocopyvision) | Zero-copy real-time systems at 60 fps | Rust + Flutter (FFI) |
+| 4 | [localmind](https://github.com/murli2708/localmind) | Fully-offline on-device RAG | Flutter + native |
+| 5 | [agentcanvas](https://github.com/murli2708/agentcanvas) | Agents + generative server-driven UI | Flutter · RFW |
+| 6 | [edgemind-studio](https://github.com/murli2708/edgemind-studio) | Production multi-modal edge AI (capstone) | Flutter (multiplatform) |
+
+## 🧰 Tools
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+
+## 📊 GitHub
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=murli2708&show_icons=true&hide_border=true&include_all_commits=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=murli2708&layout=compact&hide_border=true&langs_count=8" alt="top languages" />
+</p>
+
+---
+
+<p align="center"><i>Don't become someone who uses AI tools — become the engineer who understands the silicon, the math, the memory model, and the product well enough to build the tools others depend on.</i></p>
